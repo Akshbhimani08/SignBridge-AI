@@ -19,3 +19,21 @@ Here is the some key constrainsts about my project "Sign-Bridge AI" :
 
 ## 6.Which platform i use to deploy this project?
 -----> I used the AWS -> EC2 -> t3-small-instance for deploying 
+
+
+<h2>📸 Project Screenshots</h2>
+
+<h3>🖥️ Main Interface</h3>
+<img src="static/screenshot-1.png" width="700"/>
+
+<h3>🤖 Gesture Detection</h3>
+<img src="static/screenshot-2.png" width="700"/>
+
+<h3>✋ Hand Tracking</h3>
+<img src="static/screenshot-3.png" width="700"/>
+
+<h3>🌍 Translation Feature</h3>
+<img src="static/screenshot-4.png" width="700"/>
+
+<h3>⚙️ System Output</h3>
+<img src="static/screenshot-5.png" width="700"/>
