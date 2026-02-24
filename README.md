@@ -29,7 +29,7 @@ Here is the some key constrainsts about my project "Sign-Bridge AI" :
 <h3>Train Vs Val Accuracy</h3>
 <img src="static/screenshot-2.png" width="700"/>
 
-<h3>Confusion Martix</h3>
+<h3>Confusion Matrix</h3>
 <img src="static/screenshot-3.png" width="700"/>
 
 <h3>Translation Feature</h3>
