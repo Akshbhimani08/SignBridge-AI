@@ -1,6 +1,6 @@
 # SignBridge-AI (No AI used for writing this please read)
 
-Here is the some ket constrainst about my project "Sign-Bridge AI" : 
+Here is the some key constrainsts about my project "Sign-Bridge AI" : 
 
 ## 1. What Problems it solved?
 ---> so basically we aolving the comunication gap between the Deaf and the Non-Deaf(Or we can say Normal people who has ability to speak) by using this software they can communicate with each other, here the another thing is i have added the multi-lingustic feature that can help to ASL(American Sign Language to any language around the Globe).
