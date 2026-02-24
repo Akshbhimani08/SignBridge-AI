@@ -10,6 +10,11 @@ Architecture (browser-camera edition):
 
 Run:
     uvicorn predict_api_v2:app --host 0.0.0.0 --port 8000
+
+    if the 0.0.0.0:8000 is not working than try out the localhost:8000 this will works because the DNS issue
+
+    also here i have provided the .yml -> that is the conda requirements so if you have to use you have to make the conda environment and do the
+    install dependencies it has
 """
 
 import asyncio, threading, time, queue, os, pickle, json, io, base64
