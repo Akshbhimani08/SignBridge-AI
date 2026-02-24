@@ -3,7 +3,7 @@
 Here is the some key constrainsts about my project "Sign-Bridge AI" : 
 
 ## 1. What Problems it solved?
----> so basically we aolving the comunication gap between the Deaf and the Non-Deaf(Or we can say Normal people who has ability to speak) by using this software they can communicate with each other, here the another thing is i have added the multi-lingustic feature that can help to ASL(American Sign Language to any language around the Globe).
+---> so basically we aolving the comunication gap between the Non-Speaking and the Speaking(Or we can say Normal people who has ability to speak) by using this software they can communicate with each other, here the another thing is i have added the multi-lingustic feature that can help to ASL(American Sign Language to any language around the Globe).
 
 ## 2.Application Areas : 
 -----> we can integrate this thing with the Goverment Sevelent Area where any Deaf is there that can easily communicate with the around the people , TV channels for Deaf is can be accesibe for the Normal people by using this , i think no limitation we will intergrate this thing in the every plcae where the Deaf people is operation 
