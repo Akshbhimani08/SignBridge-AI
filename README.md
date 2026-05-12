@@ -242,38 +242,6 @@ POST /speak_translation ──► gTTS → base64 MP3 → WS broadcast → brows
 
 ---
 
-## Author
-
-**Aksh Bhimani**
-Sign-Bridge AI — Cloud Edition 2025
-
-> *"In the industry, resource problems don't exist — only engineering problems do. Build the solution first."*
-
----
-
-## Citation / References
-
-If you use this project or the architecture as a reference, please cite:
-
-```
-@misc{signbridge2025,
-  author       = {Aksh Bhimani},
-  title        = {Sign-Bridge AI: Real-Time ASL Translation with MobileNetV2 and MediaPipe},
-  year         = {2025},
-  howpublished = {\url{https://lnkd.in/dzduZgGi}},
-  note         = {Cloud Edition — AWS EC2, FastAPI, gTTS, LanguageTool NLP}
-}
-```
-
-Related references:
-
-- Howard, A. G. et al. (2017). *MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.* [arXiv:1704.04861](https://arxiv.org/abs/1704.04861)
-- Lugaresi, C. et al. (2019). *MediaPipe: A Framework for Building Perception Pipelines.* [arXiv:1906.08172](https://arxiv.org/abs/1906.08172)
-- Rothe, A. et al. *LanguageTool: Open Source Grammar and Spell Checker.* [languagetool.org](https://languagetool.org)
-- UCI Machine Learning Repository — [Gesture Phase Segmentation Dataset](https://archive.ics.uci.edu/dataset/302/gesture+phase+segmentation)
-
----
-
 Here is the some key constrainsts about my project "Sign-Bridge AI" : 
 
 ## 1. What Problems it solved?
@@ -310,3 +278,26 @@ Here is the some key constrainsts about my project "Sign-Bridge AI" :
 
 <h3>Custom Dataset Creation</h3>
 <img src="static/screenshot-5.png" width="700"/>
+
+---
+
+## Citation / References
+
+If you use this project or the architecture as a reference, please cite:
+
+```
+@misc{signbridge2025,
+  author       = {Aksh Bhimani},
+  title        = {Sign-Bridge AI: Real-Time ASL Translation with MobileNetV2 and MediaPipe},
+  year         = {2025},
+  howpublished = {\url{https://lnkd.in/dzduZgGi}},
+  note         = {Cloud Edition — AWS EC2, FastAPI, gTTS, LanguageTool NLP}
+}
+```
+
+Related references:
+
+- Howard, A. G. et al. (2017). *MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.* [arXiv:1704.04861](https://arxiv.org/abs/1704.04861)
+- Lugaresi, C. et al. (2019). *MediaPipe: A Framework for Building Perception Pipelines.* [arXiv:1906.08172](https://arxiv.org/abs/1906.08172)
+- Rothe, A. et al. *LanguageTool: Open Source Grammar and Spell Checker.* [languagetool.org](https://languagetool.org)
+- UCI Machine Learning Repository — [Gesture Phase Segmentation Dataset](https://archive.ics.uci.edu/dataset/302/gesture+phase+segmentation)
