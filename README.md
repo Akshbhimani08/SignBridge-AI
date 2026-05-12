@@ -2,13 +2,13 @@
 
 > End-to-end AI pipeline that translates American Sign Language gestures into text, speech, and 17+ languages — live, in the browser.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/Model-MobileNetV2-teal)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-green?logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Uvicorn-009688?logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/Deployed-AWS%20EC2-232F3E?logo=amazonaws&logoColor=white)
-![Live Demo](https://img.shields.io/badge/Live%20Demo-duckdns-purple)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3100/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs/python/tf/keras)
+[![MobileNetV2](https://img.shields.io/badge/Model-MobileNetV2-teal)](https://arxiv.org/abs/1801.04381)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-green?logo=google&logoColor=white)](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Uvicorn-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![AWS EC2](https://img.shields.io/badge/Deployed-AWS%20EC2-232F3E?logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
+
 ---
 
 ## Live Demo(Linkedin post with Live working Video)
