@@ -69,7 +69,7 @@ gTTS Cloud TTS  ──► base64 MP3 streamed back via WebSocket → Browser Aud
 
 ---
 
-## Model Architecture(Fine-Tunning Part)
+## FineTunning Part(Model Architecture)
 
 | Component | Detail |
 |---|---|
