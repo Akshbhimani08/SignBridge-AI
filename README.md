@@ -1,6 +1,7 @@
 # Sign-Bridge AI — Real-Time Sign Language Translation System
 
 > End-to-end AI pipeline that translates American Sign Language gestures into text, speech, and 17+ languages — live, in the browser.
+> small-note : some lagging in the web could be there because of the free tier AWS instance my model alone takes 512 MB's of RAM if we use bigger one this issue will be solved as the project level you can ignore the lagging as of now this is the consideration from my side
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3100/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs/python/tf/keras)
