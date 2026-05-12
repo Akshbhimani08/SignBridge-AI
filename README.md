@@ -1,4 +1,12 @@
-# SignBridge-AI (No AI used for writing this please read)
+# SignBridge-AI
+
+---
+
+## Live Demo(Linkedin post with Live working Video)
+
+-> [Click here to view the live working & project's url](https://www.linkedin.com/feed/update/urn:li:activity:7432050087935107072/)
+
+---
 
 Here is the some key constrainsts about my project "Sign-Bridge AI" : 
 
